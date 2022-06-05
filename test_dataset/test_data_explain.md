@@ -11,10 +11,10 @@ In order to use this dataset along with its code you have to:
 * extract them
 * keep the format that we uploaded
   * test_dataset
-    * train
+   * train
      * yes
      * no
-    * test
+   * test
      * yes
      * no
 
