@@ -10,11 +10,10 @@ In order to use this dataset along with its code you have to:
 * download all the zip files
 * extract them
 * keep the format that we uploaded
-  * test_dataset
-   * train
+ * test_dataset/train
      * yes
      * no
-   * test
+ * test_dataset/test
      * yes
      * no
 
