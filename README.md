@@ -1,7 +1,7 @@
 # Deep-Learning-Project
 Medical Image Classification 
 
-Hello we are [Nikos](https://github.com/nikolis7) and [Marios](https://github.com/votaldo)
+Hello we are [Nikolas](https://github.com/nikolis7) and [Marios](https://github.com/votaldo)
 This is a project developed within the course `Deep Learning` for our **Master's Degree in Data Science**. 
 
 The main resources we will use to develop our Medical Image Classification project are:
