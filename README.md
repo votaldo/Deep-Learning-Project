@@ -1,5 +1,5 @@
 # Deep-Learning-Project
-Medical Image Classification 
+Medical Image Classification (X-rays and MRI's)
 
 Hello we are [Nikolas](https://github.com/nikolis7) and [Marios](https://github.com/votaldo)
 This is a project developed within the course `Deep Learning` for our **Master's Degree in Data Science**. 
