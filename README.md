@@ -2,7 +2,7 @@
 Medical Image Classification (X-rays and MRI's)
 
 Hello we are [Nikolas](https://github.com/nikolis7) and [Marios](https://github.com/votaldo)
-This is a project developed within the course `Deep Learning` for our **[MSc Program of Data Science](http://msc-data-science.iit.demokritos.gr)**. 
+This is a project developed within the course `Deep Learning` for our **[MSc Program in Data Science](http://msc-data-science.iit.demokritos.gr)**. 
 
 The main resources we will use to develop our Medical Image Classification project are:
 * [Google Colab](https://colab.research.google.com/?utm_source=scs-index]) (to deplot code and report our progress)
