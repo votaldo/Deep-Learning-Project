@@ -5,7 +5,9 @@ Hello we are [Nikolas](https://github.com/nikolis7) and [Marios](https://github.
 This is a project developed within the course `Deep Learning` for our **[MSc Program in Data Science](http://msc-data-science.iit.demokritos.gr)**. 
 
 The main resources we will use to develop our Medical Image Classification project are:
-* [Google Colab](https://colab.research.google.com/?utm_source=scs-index]) (to deplot code and report our progress)
+* [Google Colab](https://colab.research.google.com/?utm_source=scs-index]) and [Jupyter Notebook](https://jupyter.org/) (to deplot code and report our progress)
 * [TensorFlow](https://www.tensorflow.org/resources/learn-ml?gclid=Cj0KCQjwqPGUBhDwARIsANNwjV7LnBk3geGnJ7dztoqsaVvw53xXhYAFtLdW47irptwfgUJZrakvo0EaAvxfEALw_wcB) (for our Neural Networks)
 * [Pytorch](https://pytorch.org/)(for our Neural Networks)
 * [Kaggle](https://www.kaggle.com/datasets) (for our datasets)
+
+The dataset for the pneumonia tasks is available in the link https://drive.google.com/drive/folders/1yZoXee6uN7cLmSfh5pDMJtecUiwqig7I?usp=sharing
