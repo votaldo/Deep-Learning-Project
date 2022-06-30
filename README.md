@@ -10,4 +10,10 @@ The main resources we will use to develop our Medical Image Classification proje
 * [Pytorch](https://pytorch.org/)(for our Neural Networks)
 * [Kaggle](https://www.kaggle.com/datasets) (for our datasets)
 
-
+Our main goals for this project are:
+* Successfully preprocess the images
+  * Rescale the images
+  * Normalise 
+  * Perform data augmentation 
+* Build CCNs
+* Perform transfer learning
