@@ -10,4 +10,4 @@ The main resources we will use to develop our Medical Image Classification proje
 * [Pytorch](https://pytorch.org/)(for our Neural Networks)
 * [Kaggle](https://www.kaggle.com/datasets) (for our datasets)
 
-The dataset for the pneumonia tasks is available in the link https://drive.google.com/drive/folders/1yZoXee6uN7cLmSfh5pDMJtecUiwqig7I?usp=sharing
+
