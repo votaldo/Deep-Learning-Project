@@ -11,9 +11,13 @@ The main resources we will use to develop our Medical Image Classification proje
 * [Kaggle](https://www.kaggle.com/datasets) (for our datasets)
 
 Our main goals for this project are:
+
+#### Pneumonia Classification via Xray 
 * Successfully preprocess the images
   * Rescale the images
   * Normalise 
   * Perform data augmentation 
 * Build CCNs
 * Perform transfer learning
+
+#### Brain Segmentation via MRI's
