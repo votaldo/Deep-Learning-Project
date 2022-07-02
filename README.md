@@ -12,12 +12,25 @@ The main resources we will use to develop our Medical Image Classification proje
 
 Our main goals for this project are:
 
-#### Pneumonia Classification via Xray 
+#### Pneumonia Classification via Xray's  
+The pipeline we used to solve the problem is as follows: 
 * Successfully preprocess the images
+  * Import them   
   * Rescale the images
   * Normalise 
   * Perform data augmentation 
-* Build CCNs
-* Perform transfer learning
+* Apply different CNN architectures 
+* Use deep neural network model using transfer learning (ResNet151 & DenseNet 161) 
+* Analyze the models results 
+* Predict on test set 
+* Compare the results 
 
 #### Brain Segmentation via MRI's
+The pipeline we used to solve the problem is as follows: 
+* Successfully preprocess the images and masks 
+  * Import them   
+  * Rescale the images
+  * Normalise 
+* Use Unet model to solve the problem 
+* Predict on test set 
+* Visualize the results 
