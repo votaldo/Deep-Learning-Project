@@ -24,7 +24,7 @@ The pipeline we used to solve the problem is as follows:
 * Analyze the models results 
 * Predict on test set 
 * Compare the results 
-
+The data set is available at this [link](https://drive.google.com/drive/folders/1yZoXee6uN7cLmSfh5pDMJtecUiwqig7I?usp=sharing)
 #### Brain Segmentation via MRI's
 The pipeline we used to solve the problem is as follows: 
 * Successfully preprocess the images and masks 
@@ -34,3 +34,4 @@ The pipeline we used to solve the problem is as follows:
 * Use Unet model to solve the problem 
 * Predict on test set 
 * Visualize the results 
+The data set is available at this [link](https://drive.google.com/drive/folders/1tpQSPfnElON-4IppJS0upQVs9lIrgQ4z?usp=sharing)
