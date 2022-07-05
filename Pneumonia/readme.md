@@ -4,4 +4,4 @@ In order to run the notebooks execute the following commands in cmd:
 2) source env/bin/activate
 3) pip install -r requirements.txt
 
-Transfer Learning Notebooks were deployed in different environment since pyrorch was used indtead of tensorflow. Thus in order to run them follow the abovementioned steps and replace requirements.txt with requirements_pytorch.txt 
+Transfer Learning Notebooks were deployed in different environment since pytorch was used instead of tensorflow. Thus, in order to run them follow the above mentioned steps and replace requirements.txt with requirements_pytorch.txt 
